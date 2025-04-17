@@ -1,4 +1,4 @@
-# internet-artist-database
+# Internet Artist Database
 IADb is a website for recording anime artists on the Internet.
 
 URL: https://iadb.scy.la
